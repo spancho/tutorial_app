@@ -5,6 +5,7 @@
     <ignored path="tutorial_app.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Gemfile" changelist="dcb9ec0c-359d-48c6-846e-07ec6003c587" time="1370804094973" ignored="false" />
+    <file path="/README.rdoc" changelist="dcb9ec0c-359d-48c6-846e-07ec6003c587" time="1370804384264" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,10 +25,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="366" selection-end="366" vertical-scroll-proportion="0.29166666">
+            <state line="18" column="0" selection-start="366" selection-end="366" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.rdoc" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.rdoc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="44" selection-start="218" selection-end="218" vertical-scroll-proportion="0.16666667">
               <folding />
             </state>
           </provider>
@@ -44,6 +54,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/README.rdoc" />
       </list>
     </option>
   </component>
@@ -364,7 +375,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="366" selection-end="366" vertical-scroll-proportion="0.29166666">
+        <state line="18" column="0" selection-start="366" selection-end="366" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.rdoc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="44" selection-start="218" selection-end="218" vertical-scroll-proportion="0.16666667">
           <folding />
         </state>
       </provider>
