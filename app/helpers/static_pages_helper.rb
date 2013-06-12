@@ -1,3 +1,2 @@
 module StaticPagesHelper
-  # comment
 end
