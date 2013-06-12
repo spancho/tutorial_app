@@ -13,8 +13,8 @@
     <file path="/routes.rb" changelist="dcb9ec0c-359d-48c6-846e-07ec6003c587" time="1370925623420" ignored="false" />
     <file path="/about.html.erb" changelist="dcb9ec0c-359d-48c6-846e-07ec6003c587" time="1370926468496" ignored="false" />
     <file path="$PROJECT_DIR$/app/assets/stylesheets/static_pages.css.scss" changelist="dcb9ec0c-359d-48c6-846e-07ec6003c587" time="1370998572079" ignored="false" />
-    <file path="/user_spec.rb" changelist="dcb9ec0c-359d-48c6-846e-07ec6003c587" time="1371067357065" ignored="false" />
-    <file path="/user.rb" changelist="dcb9ec0c-359d-48c6-846e-07ec6003c587" time="1371066886161" ignored="false" />
+    <file path="/user_spec.rb" changelist="dcb9ec0c-359d-48c6-846e-07ec6003c587" time="1371068761220" ignored="false" />
+    <file path="/user.rb" changelist="dcb9ec0c-359d-48c6-846e-07ec6003c587" time="1371068952961" ignored="false" />
     <file path="/20130612160304_add_index_to_users_email.rb" changelist="dcb9ec0c-359d-48c6-846e-07ec6003c587" time="1371053077203" ignored="false" />
     <file path="/20130612161138_add_index_to_users_email.rb" changelist="dcb9ec0c-359d-48c6-846e-07ec6003c587" time="1371053538870" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,10 +45,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="user.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/models/user.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="12" selection-start="790" selection-end="790" vertical-scroll-proportion="0.0">
+            <state line="15" column="43" selection-start="363" selection-end="363" vertical-scroll-proportion="0.42009884">
               <folding />
             </state>
           </provider>
@@ -108,10 +108,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user_spec.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="user_spec.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spec/models/user_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="34" selection-start="611" selection-end="611" vertical-scroll-proportion="0.66392094">
+            <state line="40" column="0" selection-start="877" selection-end="877" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -150,8 +150,8 @@
         <option value="$PROJECT_DIR$/db/schema.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20130612161138_add_index_to_users_email.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/app/models/user.rb" />
         <option value="$PROJECT_DIR$/spec/models/user_spec.rb" />
+        <option value="$PROJECT_DIR$/app/models/user.rb" />
       </list>
     </option>
   </component>
@@ -668,7 +668,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25853243" sideWeight="0.671875" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26279864" sideWeight="0.671875" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3262195" sideWeight="0.5004314" order="7" side_tool="true" content_ui="tabs" />
@@ -831,16 +831,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/user.rb">
+    <entry file="file://$PROJECT_DIR$/spec/models/user_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="12" selection-start="790" selection-end="790" vertical-scroll-proportion="0.0">
+        <state line="40" column="0" selection-start="877" selection-end="877" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/models/user_spec.rb">
+    <entry file="file://$PROJECT_DIR$/app/models/user.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="34" selection-start="611" selection-end="611" vertical-scroll-proportion="0.66392094">
+        <state line="15" column="43" selection-start="363" selection-end="363" vertical-scroll-proportion="0.42009884">
           <folding />
         </state>
       </provider>

@@ -29,10 +29,25 @@ describe User do
 
   it { should be_valid }
 
+  # name tests
+
   describe "when name is not present" do
     before { @user.name = " " }
     it { should_not be_valid }
   end
+
+  # email tests
+
+  describe "when email is not downcase" do
+    let(:mixed_case_email) { "fUnKeE@CAse.CoM" }
+
+    it "should be saved as lower case" do
+      @user.email = mixed_case_email
+      @user.save
+      @user.reload.email.should == mixed_case_email.downcase
+    end
+  end
+
 
   describe "when email is not present" do
     before { @user.email = " " }
@@ -75,6 +90,8 @@ describe User do
 
     it { should_not be_valid }
   end
+
+  # password tests
 
   describe "when password is not present" do
     before { @user.password = @user.password_confirmation = " "}
