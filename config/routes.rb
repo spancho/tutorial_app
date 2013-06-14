@@ -1,5 +1,5 @@
 TutorialApp::Application.routes.draw do
-  get "users/new"
+  resources :users
   # new comment
   root to: 'static_pages#home'
 
