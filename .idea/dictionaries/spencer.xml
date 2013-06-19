@@ -2,9 +2,12 @@
   <dictionary name="spencer">
     <words>
       <w>gravatar</w>
+      <w>micropost</w>
+      <w>microposts</w>
       <w>signin</w>
       <w>signout</w>
       <w>signup</w>
+      <w>unfollowed</w>
     </words>
   </dictionary>
 </component>
