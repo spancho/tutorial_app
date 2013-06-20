@@ -42,4 +42,15 @@ describe "MicropostPages" do
       end
     end
   end
+
+  #describe "can't delete other users posts" do
+  #  before { FactoryGirl.create(:micropost, user: user) }
+  #
+  #  describe "as other user" do
+  #    before { visit user_path(user) }
+  #
+  #    it { should have_content("delete")  }
+  #  end
+  #end
+
 end
